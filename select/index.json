@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Calendar",
+  "base_artist": "森本 爵",
+  "createdAt": "2025-12-02T07:00:10.732414Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Calendar On the Wall",
+      "artist": "The Proclaimers",
+      "has_synced": true,
+      "path": "select/01_Calendar_On_the_Wall_The_Proclaimers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Calendar Hung Itself…",
+      "artist": "Bright Eyes",
+      "has_synced": true,
+      "path": "select/02_The_Calendar_Hung_Itself..._Bright_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Calendar Hung Itself",
+      "artist": "Bright Eyes",
+      "has_synced": true,
+      "path": "select/03_The_Calendar_Hung_Itself_Bright_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Calendar Song (January, February, March)",
+      "artist": "Boney M.",
+      "has_synced": false,
+      "path": "select/04_The_Calendar_Song_(January,_February,_March)_Boney_M..txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Calendar Pages",
+      "artist": "We Are The In Crowd",
+      "has_synced": true,
+      "path": "select/05_Calendar_Pages_We_Are_The_In_Crowd.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Calendar Girl",
+      "artist": "Stars",
+      "has_synced": false,
+      "path": "select/06_Calendar_Girl_Stars.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Calendar Girl (Live)",
+      "artist": "Stars",
+      "has_synced": false,
+      "path": "select/07_Calendar_Girl_(Live)_Stars.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Calendar",
+      "artist": "7seconds",
+      "has_synced": false,
+      "path": "select/08_Calendar_7seconds.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Calendar",
+      "artist": "7 Seconds",
+      "has_synced": false,
+      "path": "select/09_Calendar_7_Seconds.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Torn Calendar",
+      "artist": "The Wake",
+      "has_synced": false,
+      "path": "select/10_Torn_Calendar_The_Wake.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Calendar",
+      "artist": "Panic! At The Disco",
+      "has_synced": true,
+      "path": "select/11_The_Calendar_Panic!_At_The_Disco.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Calendar",
+      "artist": "Panic! at the Disco",
+      "has_synced": true,
+      "path": "select/12_The_Calendar_Panic!_at_the_Disco.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Calendar Girl",
+      "artist": "Neil Sedaka",
+      "has_synced": true,
+      "path": "select/13_Calendar_Girl_Neil_Sedaka.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Calendar Girl",
+      "artist": "Neil Sedaka",
+      "has_synced": true,
+      "path": "select/14_Calendar_Girl_Neil_Sedaka.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Calendar (feat. REO)",
+      "artist": "森本 爵",
+      "has_synced": false,
+      "path": "select/pl_01_Calendar_(feat._REO)_森本_爵.txt"
+    }
+  ]
+}
